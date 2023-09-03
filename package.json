@@ -1,0 +1,22 @@
+{
+  "name": "genexus-cryptography",
+  "version": "1.0.0",
+  "description": "GeneXys Cryptography to SIGA API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyber-Root0/GeneXus-Cryptography.git"
+  },
+  "keywords": [
+    "genexux"
+  ],
+  "author": "Bruno Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyber-Root0/GeneXus-Cryptography/issues"
+  },
+  "homepage": "https://github.com/Cyber-Root0/GeneXus-Cryptography#readme"
+}
